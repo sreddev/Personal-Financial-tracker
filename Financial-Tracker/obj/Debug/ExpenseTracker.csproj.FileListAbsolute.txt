@@ -1,0 +1,58 @@
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.LoginForm.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.UI.UI_textbox.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.SignUpForm.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Dashboard.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryMain.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryAdd.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionAdd.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionMain.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileMain.resources
+C:\Users\Tor Natee\Desktop\kook\work\CPE363\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileEdit.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryAdd.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryMain.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.Dashboard.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.LoginForm.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileEdit.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileMain.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.SignUpForm.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionAdd.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionMain.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.UI.UI_textbox.resources
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+E:\02_Exchange\Repos\Expense-Tracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryAdd.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.CategoryMain.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.Dashboard.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.LoginForm.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileEdit.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.ProfileMain.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.SignUpForm.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionAdd.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.TransactionMain.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.UI.UI_textbox.resources
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+E:\02_Exchange\Repos\Expense-Tracker_TSL\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
