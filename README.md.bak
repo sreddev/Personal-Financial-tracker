@@ -1,7 +1,7 @@
 # 💰 Expense Tracker (Windows Forms)
 
 <p align="center">
-
+  <img src="https://i.imgur.com/E6XycXL.png">
 </p>
 
 A desktop-based personal finance management application built with **C# WinForms**. This project focuses on delivering a modern, minimal user interface while managing local data persistence through **Microsoft Access (OleDB)**.
